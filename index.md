@@ -7,7 +7,7 @@
       <p><b>邮箱：970075550@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_1171(20210908-093354).jpg" width="100%"> 
+      <img src="/IMG_1171(20210908-093354).JPG" width="100%"> 
     </td>
   </tr>
 </table>
